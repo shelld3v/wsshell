@@ -1,0 +1,2 @@
+# wsshell
+WebSocket bind shell
