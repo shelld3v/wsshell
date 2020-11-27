@@ -4,7 +4,7 @@ Wow, you can do a shell upload, how cool is that! And, the best way to enjoy the
 
 ## But your shell sucks, even more than the WAF, why don't use bind shell!
 
-This is a really uquine way to run a shell, that's what I want! Also, this shell has an encrypted connection, what can be better! Server admin can't know what did you do! (actually can). And feel free to get out from this project if you don't like it.
+This is a really unique way to run a shell, that's what I want! Also, this shell has an encrypted connection, what can be better! Server admin can't know what did you do! (actually can). And feel free to get out from this project if you don't like it.
 
 ## How to play
 
