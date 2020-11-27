@@ -25,7 +25,8 @@ async def shell(websocket, path):
         await websocket.send(output + pref)
 
 
-start_shell = websockets.serve(shell, "0.0.0.0", 4242)
+while 1:
+    start_shell = websockets.serve(shell, "0.0.0.0", 4242)
 
-asyncio.get_event_loop().run_until_complete(start_shell)
-asyncio.get_event_loop().run_forever()
+    asyncio.get_event_loop().run_until_complete(start_shell)
+    asyncio.get_event_loop().run_forever()
